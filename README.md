@@ -58,13 +58,13 @@ UPDATE books SET rating = 9.4 WHERE title = 'The Hobbit';
 
 -- Delete a record
 DELETE FROM books WHERE title = 'Pride and Prejudice';
-
-How to Run:
+```
+## How to Run:
 1. Open SQLite Online or another SQLite editor.
 2. Paste the SQL from books_project.sql or import the .sql file.
 3. Run the commands step by step to see the table and data.
 
-Key Learnings:
+## Key Learnings:
 1. Learned table creation, column types, and constraints
 2. Practiced CRUD operations
 3. Learned to export, save, and document an SQL project for GitHub
